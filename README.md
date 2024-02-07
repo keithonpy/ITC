@@ -1,6 +1,6 @@
 # ITC Big Data Practice
 
-Below are the **LINK** to repositories that I practise my big data skills during my appointment in ITC. 
+Below are the **LINKS** to repositories that I practise my big data skills during my appointment in ITC. 
 
 [Python Practice](https://github.com/keithonpy/ITC_python_practice.git)
 
