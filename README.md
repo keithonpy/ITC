@@ -7,3 +7,5 @@ Below are the **LINKS** to repositories that I practise my big data skills durin
 [SQL Practice](https://github.com/keithonpy/ITC_SQL_practice.git)
 
 [Scala Practice](https://github.com/keithonpy/ITC_scala_practice.git)
+
+[Linux Practice](https://github.com/keithonpy/ITC_linux_practice)
