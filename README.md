@@ -9,3 +9,5 @@ Below are the **LINKS** to repositories that I practise my big data skills durin
 [Scala Practice](https://github.com/keithonpy/ITC_scala_practice.git)
 
 [Linux Practice](https://github.com/keithonpy/ITC_linux_practice)
+
+[Hadoop Practice](https://github.com/keithonpy/ITC_hadoop_practice/)
